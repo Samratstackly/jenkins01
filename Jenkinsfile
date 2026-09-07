@@ -4,9 +4,9 @@ pipeline {
 
     environment {
 
-        FRONTEND_SERVER = "ubuntu@FRONTEND_EC2_IP"
+        FRONTEND_SERVER = "ubuntu@3.148.172.174""
 
-        BACKEND_SERVER = "ubuntu@BACKEND_EC2_IP"
+        BACKEND_SERVER = "ubuntu@3.148.172.174:5000"
 
     }
 
