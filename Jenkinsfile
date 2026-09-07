@@ -4,9 +4,9 @@ pipeline {
 
     environment {
 
-        FRONTEND_SERVER = "ubuntu@3.148.172.174""
+        FRONTEND_SERVER = "ubuntu@3.148.172.174"
 
-        BACKEND_SERVER = "ubuntu@3.148.172.174:5000"
+        BACKEND_SERVER = "ubuntu@3.148.172.174"
 
     }
 
