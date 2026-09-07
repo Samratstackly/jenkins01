@@ -18,7 +18,7 @@ pipeline {
 
                 git branch: 'main',
                     credentialsId: 'github-token',
-                    url: 'https://github.com/YOUR_USERNAME/YOUR_REPOSITORY.git'
+                    url: 'https://github.com/Samratstackly/jenkins01.git'
 
             }
 
